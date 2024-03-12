@@ -60,8 +60,10 @@ GOOGLE_RECAPTCHA_LANGUAGE = "en"
 GOOGLE_RECAPTCHA_RTABINDEX = 10
 ```
 
+
 ## Link:
 
+* [Google Recaptcha Language Codes](https://developers.google.com/recaptcha/docs/language)
 * [Documentation](https://github.com/PushpenderIndia/EasyFlaskRecaptcha)
 * [PyPI](https://pypi.org/project/EasyFlaskRecaptcha/)
 
