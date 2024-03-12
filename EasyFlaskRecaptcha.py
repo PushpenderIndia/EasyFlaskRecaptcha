@@ -1,5 +1,6 @@
 from markupsafe import Markup
 import requests
+from flask import request 
 
 class default(object):
     ENABLED = True
@@ -53,8 +54,8 @@ class ReCaptcha(object):
         if self.enabled:
             data = {
                 "secret": self.secret_key,
-                "response": response or requests.form.get('g-recaptcha-response'),
-                "remoteip": remote_ip or requests.environ.get('REMOTE_ADDR')
+                "response": response or request.form.get('g-recaptcha-response'),
+                "remoteip": remote_ip or request.remote_addr
             }
             r = requests.get(self.VERIFY_URL, params=data)
             return r.json()["success"] if r.status_code == 200 else False

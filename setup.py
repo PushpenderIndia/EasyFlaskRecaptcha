@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='EasyFlaskRecaptcha',
-    version='1.0.0',
+    version='1.0.2',
     url='https://github.com/pushpenderindia/EasyFlaskRecaptcha',
     license='MIT License',
     author='Pushpender Singh',
