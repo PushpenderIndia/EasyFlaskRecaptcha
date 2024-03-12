@@ -1,0 +1,4 @@
+.pypirc
+build
+dist
+EasyFlaskRecaptcha.egg-info
