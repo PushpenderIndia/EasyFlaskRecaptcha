@@ -1,6 +1,6 @@
 <h1 align="center">EasyFlaskRecaptcha</h1>
 
-<h2 align="center">EasyFlaskRecaptcha is a python Module which makes Google Recaptcha Integration in flask application easy</h2>
+<h3 align="center">EasyFlaskRecaptcha is a python Module which makes Google Recaptcha Integration in flask application easy</h3>
 
 <p align="center">
 <a href="https://pypi.org/project/easyflaskrecaptcha/"><img alt="pypi" src="https://img.shields.io/pypi/v/easyflaskrecaptcha.svg"></a>
