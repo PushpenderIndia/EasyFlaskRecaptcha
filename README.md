@@ -1,5 +1,15 @@
-# EasyFlaskRecaptcha
-EasyFlaskRecaptcha is a python Module which makes Google Recaptcha Integration in flask application easy
+<h1 align="center">EasyFlaskRecaptcha</h1>
+
+<h2 align="center">EasyFlaskRecaptcha is a python Module which makes Google Recaptcha Integration in flask application easy</h2>
+
+<p align="center">
+<a href="https://pypi.org/project/easyflaskrecaptcha/"><img alt="pypi" src="https://img.shields.io/pypi/v/easyflaskrecaptcha.svg"></a>
+<a href="https://pepy.tech/project/easyflaskrecaptcha?versions=1*&versions=2*&versions=3*"><img alt="Downloads" src="https://pepy.tech/badge/easyflaskrecaptcha"></a>
+<a href="https://pepy.tech/project/easyflaskrecaptcha?versions=1*&versions=2*&versions=3*"><img alt="Downloads" src="https://pepy.tech/badge/easyflaskrecaptcha/month"></a>
+<a href="https://github.com/PushpenderIndia/EasyFlaskRecaptcha/commits/main"><img alt="GitHub lastest commit" src="https://img.shields.io/github/last-commit/PushpenderIndia/EasyFlaskRecaptcha?color=blue&style=flat-square"></a>
+</p>
+
+--------------------------------------------------------------------------
 
 ## Installation
 
